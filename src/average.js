@@ -5,6 +5,10 @@
  */
 function average(scores) {
     // CODE HERE
+   for(let somme = 0; i<scores; i++){
+       scores[i];
+   }
+   return somme
 }
 
 export { average };
